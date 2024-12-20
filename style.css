@@ -55,7 +55,7 @@ nav ul li a:hover::after {
   color: #9e7a68;
 }
 .container {
-  max-width: 500px;
+  max-width: 600px;
   height: 0px;
   padding: 100px;
   margin-top: 90px;
